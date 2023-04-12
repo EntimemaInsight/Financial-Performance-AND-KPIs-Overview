@@ -32,17 +32,13 @@ II. Dashboard Images
 
 # Key Insights
 
-1. Revenue Analisys: 
-By examining the budget vs. actual revenue metrics, we could identify areas where the company is performing well or falling short of expectations. The % of budgeted revenue and actual vs. budgeted revenues by year and month could highlight trends and variances that could inform decision-making around sales and marketing strategies. The tracking revenue differences slide could be used to identify areas where the company is over- or under-performing compared to its budget, allowing for corrective actions to be taken if necessary.
+1. Revenue Analisys: By examining the budget vs. actual revenue metrics, we could identify areas where the company is performing well or falling short of expectations.    The % of budgeted revenue and actual vs. budgeted revenues by year and month could highlight trends and variances that could inform decision-making around sales and    marketing strategies. The tracking revenue differences slide could be used to identify areas where the company is over- or under-performing compared to its budget,    allowing for corrective actions to be taken if necessary.
 
-2 . Expenses Analisys: 
-The budget vs. actual expenses metrics could be used to identify areas where the company is overspending or underspending compared to its budget. The % of budgeted expenses and actual vs. budgeted expenses by year and month could help identify trends and highlight areas where cost savings may be possible. The tracking expenses differences slide could be used to identify areas where expenses are significantly different from budget, enabling more effective cost management.
+2 . Expenses Analisys: The budget vs. actual expenses metrics could be used to identify areas where the company is overspending or underspending compared to its           budget. The % of budgeted expenses and actual vs. budgeted expenses by year and month could help identify trends and highlight areas where cost savings may be         possible. The tracking expenses differences slide could be used to identify areas where expenses are significantly different from budget, enabling more effective       cost management.
 
-3. Financial Performance Analysis:
-By examining metrics such as net revenue over time, revenue vs. EBITDA, and assets and liabilities, we could gain a comprehensive understanding of the company's overall financial performance and health. This information could be used to inform strategic decision-making around investments, capital expenditures, and overall financial management.
+3. Financial Performance Analysis: By examining metrics such as net revenue over time, revenue vs. EBITDA, and assets and liabilities, we could gain a comprehensive      understanding of the company's overall financial performance and health. This information could be used to inform strategic decision-making around investments,        capital expenditures, and overall financial management.
 
-4. KPIs Overview: 
-The KPIs dashboard could provide valuable insights into the company's performance across a range of key metrics, including financial performance, credit portfolio performance, operational performance, loans receivables, and trade liabilities. By examining these metrics, we could identify areas where the company is performing well and where improvements may be necessary. This information could inform strategic decision-making around investments, product development, and other areas of the business.
+4. KPIs Overview: The KPIs dashboard could provide valuable insights into the company's performance across a range of key metrics, including financial performance, credit portfolio performance, operational performance, loans receivables, and trade liabilities. By examining these metrics, we could identify areas where the company is performing well and where improvements may be necessary. This information could inform strategic decision-making around investments, product development, and other areas of the business.
 
 
 # License
