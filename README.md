@@ -1,11 +1,8 @@
 # Financial-Performance-And-KPIs-Overview
+
 This GitHub repository contains a Power BI dashboard focused on financial performance and key performance indicators (KPIs) for a company. The dashboard provides a comprehensive overview of the company's financial performance and key metrics. The data used in this project is entirely fictional and intended solely for demonstration purposes. The data represents a sample of credit card sales data from a credit card company over the course of two years.
 
 # Getting Started
-To use the Power BI file, follow these steps:
-
-Open the PBI_MonthlyReview.pbix file in Power BI desktop.
-Interact with the visualizations and dashboards to explore the data and insights.
 
 The dashboard is designed to provide an overview of the company's financial performance and KPIs, with interactive visualizations that allow you to drill down into specific metrics and time periods. To get started, you can explore the tabs and visualizations in the dashboard, or use the filters to customize the view to your needs.
 
@@ -36,6 +33,6 @@ II. Dashboard Images
 
 
 
-#License
+# License
 
 This project is licensed under the MIT License - see the LICENSE file for details.
