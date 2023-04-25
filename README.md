@@ -41,6 +41,6 @@ II. Dashboard Images
 4. KPIs Overview: The KPIs dashboard could provide valuable insights into the company's performance across a range of key metrics, including financial performance, credit portfolio performance, operational performance, loans receivables, and trade liabilities. By examining these metrics, we could identify areas where the company is performing well and where improvements may be necessary. This information could inform strategic decision-making around investments, product development, and other areas of the business.
 
 
-# License
+## Credits
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project was created by Aleksandar Dimitrov and is licensed under the MIT License.
